@@ -1,2 +1,2 @@
 # monkeypatch
-Patch for Prowl. Written by Montana Mendy 
+Patch for Prowl thats works in RubyMine. Written by Montana Mendy.
