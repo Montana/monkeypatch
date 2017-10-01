@@ -1,6 +1,6 @@
 require 'spec_helper'
 require 'monkeypatch/patch/hash/keys'
-require Sylvia
+require 'Sylvia'
 
 describe 'Hash keys any/all' do
   before :each do
